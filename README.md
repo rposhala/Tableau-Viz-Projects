@@ -6,23 +6,41 @@ These visualization projects are done based on first 4 courses in Tableau specia
 ## Tableau profile and viz links
 #### Overall Tableau profile:
 Overall profile: https://public.tableau.com/profile/rohith.kumar.poshala#!/
+
 #### Data Visualization projects with dashboards and stories built using Tableau
+
 Story Point Presentation of Sales Super Store dataset: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/StoryPointPresentationofSalesSuperStoredataset/Story1
+
 Dashboard for Sales SuperStore Dataset: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/DashboardforSalesSuperStoreDataset/Dashboard1
+
 KPI workshop: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/KPIworkshop/Dashboard1
+
 Dual Layer Maps Assignment: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/DualLayerMapsAssignment_16090171392290/DualLayerMaps
+
 Maps_workshop: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/Maps_workshop/Dashboard1
+
 ChocoBar Visualization: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/ChocoBarVisualization/Dashboard1
+
 Sales Spotlight Product View: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/SalesSpotlightProductView_16090107231540/ProductView
+
 Shipping Tool: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/ShippingTool/ShippingDetails
+
 Customer Scatterplot: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/CustomerScatterplot_16089984569030/CustomerScatterplot
+
 Worst 3 performing sub categories by region in Sales dataset: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/Worst3performingsubcategoriesbyregioninSalesdataset/Bargraph
+
 Control Chart on SuperStore dataset: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/ControlChartonSuperStoredataset/Sheet1
+
 Workbook-of-Anscombe_s-Quartet: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/Workbook-of-Anscombe_s-Quartet_16089103524740/Sheet1
+
 Dashboard for SuperStore Sales: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/DashboardforSuperStoreSales/Dashboard1
+
 Pre-attentive attribute exploration: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/Pre-attentiveattributeexploration/Sheet3
+
 USDA decluttering workbook2 - bar graph: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/USDAdeclutteringworkbook2-bargraph/bargraph
+
 USDA decluttering workbook: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/USDAdeclutteringworkbook/bubble
+
 Viz_workshop: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/Viz_workshop_16088540304100/Viz_workshop
 
 #### Below are few examples of Viz done for this project:
@@ -47,7 +65,7 @@ Dual Layer Maps Assignment:
 Maps_workshop: 
 ![GitHub Logo](Map-Workshop.PNG)
 ChocoBar Visualization: 
-![GitHub Logo](Course1-ChocoBar_Viz.PNG)
+![GitHub Logo](ChocoBar_Viz.PNG)
 Sales Spotlight Product View: 
 ![GitHub Logo](Sales-Product-view.PNG)
 Customer Scatterplot: 
