@@ -9,8 +9,8 @@ Overall profile: https://public.tableau.com/profile/rohith.kumar.poshala#!/
 
 #### Data Visualization projects with dashboards and stories built using Tableau
 
-Story Point Presentation of Sales Super Store dataset: t.ly/4Ttu \n
-Dashboard for Sales SuperStore Dataset: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/DashboardforSalesSuperStoreDataset/Dashboard1 \n
+Story Point Presentation of Sales Super Store dataset: t.ly/4Ttu /n
+Dashboard for Sales SuperStore Dataset: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/DashboardforSalesSuperStoreDataset/Dashboard1 /n
 KPI workshop: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/KPIworkshop/Dashboard1 \n
 Dual Layer Maps Assignment: t.ly/1YBB \n
 Maps_workshop: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/Maps_workshop/Dashboard1 \n
@@ -42,14 +42,18 @@ Another Dashboard in the Story:
 State specific on above dashboard:
 ![GitHub Logo](Sales-Story_page2.2.PNG)
 
+ChocoBar Visualization: 
+![GitHub Logo](ChocoBar_Viz.PNG)
+Brand Specific viz of above dashboard:
+![GitHub Logo](ChocoBar_Viz-Brand-specific.PNG)
+
 KPI workshop: 
 ![GitHub Logo](KPI-workshop.PNG)
 Dual Layer Maps Assignment: 
 ![GitHub Logo](Dual_layer_map_Viz.PNG)
 Maps_workshop: 
 ![GitHub Logo](Map-Workshop.PNG)
-ChocoBar Visualization: 
-![GitHub Logo](ChocoBar_Viz.PNG)
+
 Sales Spotlight Product View: 
 ![GitHub Logo](Sales-Product-view.PNG)
 Customer Scatterplot: 
