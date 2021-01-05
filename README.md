@@ -9,7 +9,7 @@ Overall profile: https://public.tableau.com/profile/rohith.kumar.poshala#!/
 
 #### Data Visualization projects with dashboards and stories built using Tableau
 
-Story Point Presentation of Sales Super Store dataset: t.ly/4Ttu <br /> 
+Story Point Presentation of Sales Super Store dataset: [t.ly/4Ttu](t.ly/4Ttu) <br /> 
 Dashboard for Sales SuperStore Dataset: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/DashboardforSalesSuperStoreDataset/Dashboard1 <br /> 
 KPI workshop: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/KPIworkshop/Dashboard1 <br /> 
 Dual Layer Maps Assignment: t.ly/1YBB <br /> 
