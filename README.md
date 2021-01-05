@@ -55,7 +55,7 @@ Region specific on above dashboard:
 Another Dashboard in the Story:
 ![GitHub Logo](Sales-Story_page2.PNG)
 
-Region specific on above dashboard:
+State specific on above dashboard:
 ![GitHub Logo](Sales-Story_page2.2.PNG)
 
 KPI workshop: 
