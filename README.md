@@ -11,21 +11,21 @@ Overall profile: https://public.tableau.com/profile/rohith.kumar.poshala#!/
 
 Story Point Presentation of Sales Super Store dataset: t.ly/4Ttu <br /> 
 Dashboard for Sales SuperStore Dataset: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/DashboardforSalesSuperStoreDataset/Dashboard1 <br /> 
-KPI workshop: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/KPIworkshop/Dashboard1 \n
-Dual Layer Maps Assignment: t.ly/1YBB \n
-Maps_workshop: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/Maps_workshop/Dashboard1 \n
-ChocoBar Visualization: t.ly/09Dr \n
-Sales Spotlight Product View: t.ly/2Uk4 \n
-Shipping Tool: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/ShippingTool/ShippingDetails \n
-Customer Scatterplot: t.ly/15U7 \n
-Worst 3 performing sub categories by region in Sales dataset: t.ly/mq3o \n
-Control Chart on SuperStore dataset: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/ControlChartonSuperStoredataset/Sheet1 \n
-Workbook-of-Anscombe_s-Quartet: t.ly/di41 \n
-Dashboard for SuperStore Sales: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/DashboardforSuperStoreSales/Dashboard1
-Pre-attentive attribute exploration: t.ly/lI7e \n
-USDA decluttering workbook2 - bar graph: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/USDAdeclutteringworkbook2-bargraph/bargraph \n
-USDA decluttering workbook: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/USDAdeclutteringworkbook/bubble \n
-Viz_workshop: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/Viz_workshop_16088540304100/Viz_workshop \n
+KPI workshop: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/KPIworkshop/Dashboard1 <br /> 
+Dual Layer Maps Assignment: t.ly/1YBB <br /> 
+Maps_workshop: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/Maps_workshop/Dashboard1 <br /> 
+ChocoBar Visualization: t.ly/09Dr <br /> 
+Sales Spotlight Product View: t.ly/2Uk4 <br /> 
+Shipping Tool: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/ShippingTool/ShippingDetails <br /> 
+Customer Scatterplot: t.ly/15U7 <br /> 
+Worst 3 performing sub categories by region in Sales dataset: t.ly/mq3o <br /> 
+Control Chart on SuperStore dataset: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/ControlChartonSuperStoredataset/Sheet1 <br /> 
+Workbook-of-Anscombe_s-Quartet: t.ly/di41 <br /> 
+Dashboard for SuperStore Sales: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/DashboardforSuperStoreSales/Dashboard1 <br /> 
+Pre-attentive attribute exploration: t.ly/lI7e <br /> 
+USDA decluttering workbook2 - bar graph: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/USDAdeclutteringworkbook2-bargraph/bargraph <br /> 
+USDA decluttering workbook: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/USDAdeclutteringworkbook/bubble <br /> 
+Viz_workshop: https://public.tableau.com/profile/rohith.kumar.poshala#!/vizhome/Viz_workshop_16088540304100/Viz_workshop <br /> 
 
 ## Below are few examples of Viz done for this project:
 
