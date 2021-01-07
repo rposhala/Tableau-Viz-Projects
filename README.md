@@ -1,7 +1,7 @@
 # Tableau-Viz-Projects
 ## Overview
 Data Analysis and Visualization on various datasets were done using Tableau. Dashboards and Stories were built using Tableau to communicate the insights from data.
-These visualization projects are done based on first 4 courses in Tableau specialization on Coursera. Datasets which are analyzed and used viz can be found in Datasets folder and Visualization assignments of this course can be found in Assignments folder. All Visulizations can be found at my Tableau profile.
+These visualization projects are done based on first 4 courses in Tableau specialization on Coursera. Datasets which are analyzed and used viz can be found in Datasets folder and Visualization assignments of this course can be found in Assignments folder. All Visualizations can be found at my Tableau profile.
 
 ## Tableau profile and viz links
 #### Overall Tableau profile:
